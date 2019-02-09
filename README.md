@@ -1,6 +1,10 @@
-# bus-ticketing-system
+# bus-ticketing-system   
 
-#NOTE - Download the "Install Bus Ticketing System.exe" file & Install the software program in any drive except C. [Note: Please don't install the software in C drive or your respective Program files drive.]  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47216809/52518338-4dd04e80-2c6f-11e9-9a82-634e9e9699d5.png">
+</p>
+
+# NOTE - Download the "Install Bus Ticketing System.exe" file & Install the software program in any drive except C. [Note: Please don't install the software in C drive or your respective Program files drive.]  
 
 The client uses JAVA JDK environment to run the JAR file, and maintains their records, however it is not possible them to share the data from multiple system in multi user environment, since there is lot of duplicate work, and chance of mistake. When the records of any bus are changed the admin needs to update them periodically without fail. There is an option available to find and print previous saved records. There is full security; admin can access only his report and sensitive data, also user can access only his login form. This Bus Ticketing System is used to overcome the entire problem which they are facing currently, and making complete atomization of manual system to computerized system.
 
@@ -33,6 +37,6 @@ If you liked the GUI and the working of the software application please feel fre
 
       PROJECT CREATED BY - Prashant Wakchaure
 
-        Email ID - prashant900555@gmail.com
+      Email ID - prashant900555@gmail.com
           
-        Contact No. - 8975366296
+      Contact No. - 8975366296
