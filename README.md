@@ -9,7 +9,9 @@
 
 The client uses JAVA JDK environment to run the JAR file, and maintains their records, however it is not possible them to share the data from multiple system in multi user environment, since there is lot of duplicate work, and chance of mistake. When the records of any bus are changed the admin needs to update them periodically without fail. There is an option available to find and print previous saved records. There is full security; admin can access only his report and sensitive data, also user can access only his login form. This Bus Ticketing System is used to overcome the entire problem which they are facing currently, and making complete atomization of manual system to computerized system.
 
-    Let the splash screen load, select user or admin according to your need.
+    Let the splash screen load;
+    Then, select user or admin according to your preference of execution.
+    
 	Default username for admin is ‘admin’ and password for admin is also ‘admin’.
 
 	For user’s to log in, they have to enter their own personal username and password, if they don’t have one, they have to create their new user id by clicking new user registration button.
